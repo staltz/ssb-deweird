@@ -1,6 +1,6 @@
 {
   "name": "ssb-deweird",
-  "description": "A client-side cache for ssb-about",
+  "description": "Allows a muxrpc source to have normal pull-stream backpressure",
   "version": "1.0.0",
   "homepage": "https://github.com/staltz/ssb-deweird",
   "main": "index.js",
